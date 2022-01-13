@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hiennv.face_mask_detection_tflite">
    <application
-        android:label="face_mask_detection_tflite"
+        android:label="Face Mask Detection"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
