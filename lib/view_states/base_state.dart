@@ -29,7 +29,7 @@ abstract class BaseState<T extends StatefulWidget, E extends BaseViewModel>
         decoration: BoxDecoration(
             color: AppColors.yellow.withOpacity(0.4),
             border: Border.all(color: AppColors.yellow, width: 5)),
-        child: Center(child: CircularProgressIndicator(color: AppColors.yellow))
+        child: Center(child: CircularProgressIndicator(backgroundColor: AppColors.yellow))
     );
   }
 
