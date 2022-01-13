@@ -2,7 +2,7 @@
     package="com.hiennv.face_mask_detection_tflite">
    <application
         android:label="face_mask_detection_tflite"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
